@@ -1,5 +1,5 @@
 Name:           tomcat-native
-Version:        1.2.18
+Version:        1.2.19
 Release:        0
 Summary:        Tomcat native library
 
